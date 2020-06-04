@@ -63,6 +63,8 @@
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^10.0.0",
     "babel-loader": "^8.1.0",
+    "bs-fetch": "^0.5.2",
+    "bs-platform": "^7.3.2",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-prettier": "^6.11.0",
@@ -72,7 +74,10 @@
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.2",
     "eslint-plugin-testing-library": "^2.2.3",
-    "prettier": "^2.0.5"
+    "ipfs": "^0.44.0",
+    "pinata-sdk": "^0.1.7",
+    "prettier": "^2.0.5",
+    "node-fetch": "^2.6.0"
   },
   "browserslist": {
     "production": [
